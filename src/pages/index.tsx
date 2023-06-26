@@ -3,7 +3,7 @@ import type { NextPage } from 'next';
 const Home: NextPage = () => {
   return (
     <div className="container mx-auto">
-      <h1>NextJS Starter</h1>
+      <h1>Sign-Up Form</h1>
     </div>
   );
 };
